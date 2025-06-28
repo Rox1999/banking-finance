@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        REPO_URL = 'https://github.com/Rox1999/star-agile-banking-finance.git'
+        REPO_URL = 'https://github.com/Rox1999/banking-finance.git'
         TEST_SERVER = '43.204.100.129'
         PROD_SERVER = '15.206.174.109'
         REMOTE_USER = 'root'
